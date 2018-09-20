@@ -1,0 +1,17 @@
+Projet Sauvagerie:
+
+Re-up du projet gouwashe initialement lance en 2013.
+
+Implique :
+
+--> La creation d'un site internet.
+--> La creation d'une newsletter envoyee mensuellement aux galeriste.
+-->mise en relation pour faire des expos des galeries / agents/ artistes / nouveaux talents.
+> Questions et problemes a resoudre : Comment recuperer un flux de nouveaux artistes
+* Comment recuperer un flux d'adresse de galeries et le conserver a jour.
+*Creation de la newsletter en troi slangues.
+* Partenariat et financements.
+:w
+
+
+
